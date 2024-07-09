@@ -45,7 +45,7 @@ Podemos encontrar la guía en el siguiente enlace [Guía de estilos]( https://an
   5. **Importación y exportación de módulos:** En Angular, los módulos pueden importar y exportar funcionalidades, lo que permite la comunicación entre diferentes partes de la aplicación y facilita la modularidad.
   6. **Ejemplo práctico:**  Por ejemplo, en una aplicación de comercio electrónico, podrías tener un módulo funcional para la gestión de productos, otro para el carrito de compras y otro para el proceso de pago. Cada uno de estos módulos agrupa los componentes, servicios y funcionalidades relacionadas con su respectiva área.
    
-  ### Lazy Loading: 
+   **Lazy Loading:** 
   
   Utiliza la carga diferida para módulos que no se cargan de inmediato, mejorando así el rendimiento inicial de la aplicación.
 
@@ -53,19 +53,19 @@ Podemos encontrar la guía en el siguiente enlace [Guía de estilos]( https://an
 
   <h1 align="center"> <em>2.Estructura de Archivos.</em></h1>
 
-  ### Convenio de Nombres: 
+  **Convenio de Nombres:**
 
   Adhiérete a un convenio de nombres consistente para archivos y carpetas.Esto simplifica la navegación y facilita la colaboración con otros desarrolladores.
 
   usar mayúsculas para iniciar los nombres, minúsculas, Camelcase, separar los nombres por guiones y puntos, nombrar los archivos seguidos del tipo de archivo, entre otras. 
 
-  ### Barrel Files:
+  **Barrel Files:**
 
   Utilizar archivos barrel para exportar módulos, facilitando la importación de multiples elementos con una sola sentencia.
 
   <h2 align="center"> <em>3.Gestión de Dependencias</em></h2>
 
-  ### Inyección de Dependencias:
+  **Inyección de Dependencias:**
 
  Usar la `inyección de dependencias` de Angular para facilitar la prueba unitaria y reducir el acoplamiento.
 
@@ -73,27 +73,27 @@ Podemos encontrar la guía en el siguiente enlace [Guía de estilos]( https://an
 
  ![imagen 2](./img/injector-injects.png)
 
- ### Lazy-Load de Librerías Externas: 
+ **Lazy-Load de Librerías Externas:** 
  
  Aprovechar las capacidades de lazy-load para integrar bibliotecas de terceros solo cuando sea necesario, reduciendo así el tamaño inicial de la aplicación.
 
   <h1 align="center"> <em>4.Rendimiento</em></h1>
 
-  ### AOT Compilation: 
+   **AOT Compilation:** 
   
   Habilitar Ahead-of-Time (AOT) Compilation para mejorar el rendimiento de la aplicación en tiempo de ejecución.
 
-  ### Change Detection OnPush: 
+  **Change Detection OnPush:** 
   
   Aplica la estrategia OnPush para la detección de cambios en los componentes, reduciendo el número de evaluaciones innecesarias.
 
 
  <h1 align="center"> <em>5.Manejo de Errores.</em></h1>
 
- ### Interceptor de Errores: 
+ **Interceptor de Errores:** 
  
  Implementa un interceptor de errores para centralizar y gestionar de manera consistente los errores en toda la aplicación.
 
- ### Logging Eficiente: 
+ **Logging Eficiente:** 
  
  Utiliza técnicas de logging efectivas para registrar información significativa sin afectar el rendimiento.
