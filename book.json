@@ -1,7 +1,0 @@
-{
-    "title":"Best Practices of Angular Development",
-    "description":"Angular, developed  by Google as a rewrite of AngularJs, is the most powerful framework for bulding dynamic programming structures.",
-    "author":"scastro",
-    "plugins":["-sharing","-fontsetting"],
-    "pluginsConfig": {}
-}
