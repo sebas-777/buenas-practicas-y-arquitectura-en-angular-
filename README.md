@@ -18,15 +18,15 @@ Podemos encontrar la guía en el siguiente enlace [Guía de estilos]( https://an
 
 <h2 align="center"> <em>Buenas Prácticas</em></h2>
 
-[1.Organización del Proyecto.](#módulos-funcionales)
+[1.Organización del Proyecto.](####módulos-funcionales)
 
-[2.Estructura de Archivos.](#convenio-de-nombres)
+[2.Estructura de Archivos.](####convenio-de-nombres)
 
-[3.Gestión de Dependencias.](#inyección-de-dependencias)
+[3.Gestión de Dependencias.](####inyección-de-dependencias)
 
-[4.Rendimiento.](#aot-compilation)
+[4.Rendimiento.](####aot-compilation)
 
-5.Manejo de Errores.
+[5.Manejo de Errores.](####logging-eficiente)
 
 <h1 align="center"> <em>1. Organización del Proyecto:</em></h1>
 
