@@ -30,7 +30,7 @@ Podemos encontrar la guía en el siguiente enlace [Guía de estilos]( https://an
 
 <h1 align="center"> <em>1. Organización del Proyecto:</em></h1>
 
-  ### Módulos Funcionales:
+  **Módulos Funcionales:**
   
    Divide tu aplicación en modulos funcionales, agrupando componentes ,servicios y artefactos relacionados.Aquí hay algunos puntos clave para entender mejor esta práctica:  
 
