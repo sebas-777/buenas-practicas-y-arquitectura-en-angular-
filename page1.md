@@ -52,3 +52,9 @@ Por otro lado, los lenguajes de tipado estático se prestan a la implementación
 - Recomendación de qué tipo retorna una función  
 - Auto documentación del código  
 - Mejor análisis para detectar errores  
+
+A continuacion  realizaremos el curso de freeCodeCamp:[Aprende TypeScript](https://www.youtube.com/watch?v=T7uaEZ3ZoZE&list=PLOKTnMIe8w1GAGbVsZ8FP1O4vxQU2jeu7&index=12) 
+
+Notas del curso: [freeCodeCamp Aprende TypeScript](page2.md)
+
+
